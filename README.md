@@ -1,4 +1,7 @@
-### Hi there 👋
+### hi.
+i'm a postdoc in HIDIVE @ Harvard Medical School.
+
+i work on data visualization in biology.
 
 <!--
 **dvdkouril/dvdkouril** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
