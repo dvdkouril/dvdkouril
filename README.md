@@ -1,7 +1,7 @@
 ### hi.
-i'm a postdoc in HIDIVE @ Harvard Medical School.
+i'm a postdoc in the [HIDIVE Lab](http://hidivelab.org) @ Harvard Medical School.
 
-i work on data visualization in biology.
+i work on visualization of mostly biological data.
 
 <!--
 **dvdkouril/dvdkouril** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
